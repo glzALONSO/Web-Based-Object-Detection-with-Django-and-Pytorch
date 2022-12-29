@@ -2,7 +2,7 @@
 
 Simple and slow object detection app integrating django and pytorch. Detection performed using pytorch pretrained implementation of FASTERRCNN_RESNET50_FPN.
 
-This app is deployed in the local webserver and can pe opened from most browsers.
+This app is deployed in the local webserver and can be opened from most browsers.
 
 # Steps to use
 
